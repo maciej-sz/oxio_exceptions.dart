@@ -1,0 +1,9 @@
+name: oxio_exceptions
+version: 0.0.1
+description: >
+  Events for Dart.
+author: Maciej Szopinski <maciej.sz@gmail.com>
+dependencies:
+dev_dependencies:
+  unittest: '>=0.11.0'
+dependency_overrides:
